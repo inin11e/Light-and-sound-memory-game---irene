@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<a href= "file:///Users/ireneninan/Personal/LightandSoundGame.gif">
+![](file:///Users/ireneninan/Personal/LightandSoundGame.gif)
 
 
 ## Reflection Questions
