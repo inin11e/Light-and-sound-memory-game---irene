@@ -47,7 +47,7 @@ Here's a walkthrough of implemented user stories:
 [n/a , only used instructions given by CodePath.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[A challenge I encountered in creating this submission was getting the colors to change when I clicked on each button. At first, when I clicked on each button, the colors did not change but after going through my code a couple times I was able to figure out my mistake. I noticed that I did not update my #button1:active, #button1.lit for each corresponding button. I left them all to call button 1, when I was actually supposed to use 2, 3, and 4, to call the four different buttons.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
