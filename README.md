@@ -40,6 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 ![](https://github.com/ininan/Light-and-sound-memory-game---irene/blob/main/LightandSoundGame.gif)
+![](https://github.com/ininan/Light-and-sound-memory-game---irene/blob/main/LightandSoundGamept2.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
