@@ -4,7 +4,7 @@
 
 Submitted by: **Irene Ninan**
 
-Time spent: **3** hours spent in total
+Time spent: **3.5** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/tabby-acute-meadowlark?path=README.md%3A1%3A0)
 
